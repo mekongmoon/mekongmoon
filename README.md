@@ -18,8 +18,3 @@ Passionate about learning, growing, and exploring new opportunities. Always stri
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mekongmoon&show_icons=true&hide_border=true" alt="mekongmoon's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekongmoon&layout=compact&hide_border=true" alt="Top languages" height="165">
-</p>
